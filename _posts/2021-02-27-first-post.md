@@ -49,7 +49,7 @@ k\frac{\partial^2 T}{\partial x^2} = \frac{\partial T}{\partial t}
 \tag{1}
 $$
 
-Here $T$ represents the temperature and $k$ is the thermal conductivity of the material (the material's ability to conduct heat). Imagine a thin rod of some length $L$, by specifying the temperature at every point on the rod at some point in time (we'll call this point $t=0$), by solving this equation we will be able to predict the temperature at point on the rod in the future, and thus this equation tells us how heat flows across the rod.
+Here $$T$$ represents the temperature and $$k$$ is the thermal conductivity of the material (the material's ability to conduct heat). Imagine a thin rod of some length $$L$$, by specifying the temperature at every point on the rod at some point in time (we'll call this point $$t=0$$), by solving this equation we will be able to predict the temperature at point on the rod in the future, and thus this equation tells us how heat flows across the rod.
 
 Let's define an initial temperature distribution:
 
