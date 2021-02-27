@@ -219,7 +219,8 @@ $$
 By distributing the cosine term and interchanging the sum an the integral (we'll assume that the order is interchangeable):
 
 $$
-\int_{-\frac{T}{2}}^\frac{T}{2}f(x)\cos⁡(\frac{mπ}{L}x)dx=\sum_{n=0}^∞ \int_{-\frac{T}{2}}^\frac{T}{2}A_n\cos(\frac{nπ}{L}x)\cos(\frac{mπ}{L}x)dx+
+\int_{-\frac{T}{2}}^\frac{T}{2}f(x)\cos⁡(\frac{mπ}{L}x)dx \\[2ex]
+=\sum_{n=0}^∞ \int_{-\frac{T}{2}}^\frac{T}{2}A_n\cos(\frac{nπ}{L}x)\cos(\frac{mπ}{L}x)dx+
 \sum_{n=0}^∞ \int_{-\frac{T}{2}}^\frac{T}{2}B_n\sin(\frac{nπ}{L}x)\cos(\frac{mπ}{L}x)dx
 $$
 
