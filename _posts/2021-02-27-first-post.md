@@ -63,7 +63,7 @@ $$
 T(0,t) = T(L,t) = 0
 $$
 
-Now that we got everything in place, lets solve. Notice that $$x$$ only occurs on one side of the equation and $t$ only on the other. Differential equations of this form can be solved with a technique knwon as seperation of variables. This just means that we'll assume that our solution takes the following form:
+Now that we got everything in place, lets solve. Notice that $$x$$ only occurs on one side of the equation and $$t$$ only on the other. Differential equations of this form can be solved with a technique knwon as seperation of variables. This just means that we'll assume that our solution takes the following form:
 
 $$
 T(x,t) = f(x)g(t)
