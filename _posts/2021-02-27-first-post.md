@@ -6,7 +6,7 @@ title: "From Heat to Sound Part I: Deriving the Fourier Series"
 
 The Fourier Series is a concept of profound importance to mathematics but also physics and engineering.  Notwithstanding the importance of the Fourier series, it is often presented in a matter of fact fashion that shrouds the concept in some mystery. In attempt to demystify the Fourier series many have published great articles that help develop intuition behind the idea, which I highly recommend. For my self I found that understanding the history of ideas, the problems it attempted to solve provides a unique perspective. More importantly it shines a light on the process of discovery in mathematics, and it reveals the struggles of the individuals as they were battling with these ideas.
 
-Unlike some other great resources in this series of articles I will focus more deriving the Fourier series, the Fourier transform and their discrete counterparts. It seems that most places I looked the formulas were presented with little justification or explanation between their relationships. I have decided to explore these relationships and what I found will be presented here.
+Unlike some other great resources in this series of articles I will focus on deriving the Fourier series, the Fourier transform and their discrete counterparts. It seems that most places I looked the formulas were presented with little justification or explanation between their relationships. I have decided to explore these relationships and what I found will be presented here.
 
 This article will be the first of a three part series:
 
