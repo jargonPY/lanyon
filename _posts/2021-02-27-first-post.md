@@ -1,7 +1,7 @@
 ---
 layout: post
 mathjax: true
-title: From Heat to Sound Part I: Deriving the Fourier Series
+title: "From Heat to Sound Part I: Deriving the Fourier Series"
 ---
 
 The Fourier Series is a concept of profound importance to mathematics but also physics and engineering.  Notwithstanding the importance of the Fourier series, it is often presented in a matter of fact fashion that shrouds the concept in some mystery. In attempt to demystify the Fourier series many have published great articles that help develop intuition behind the idea, which I highly recommend. For my self I found that understanding the history of ideas, the problems it attempted to solve provides a unique perspective. More importantly it shines a light on the process of discovery in mathematics, and it reveals the struggles of the individuals as they were battling with these ideas.
