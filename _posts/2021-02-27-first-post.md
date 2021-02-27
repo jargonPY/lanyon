@@ -341,7 +341,7 @@ To extend the domain of Fourier analysis to non-periodic functions we come up wi
 
 Another way to look at it is that although we have infinitely many terms in the series we are limited to using sinusoidals with only a small subset of possible frequencies, specifically we can only use multiples of the fundamental frequency. Observe that the frequencies are seperated by $$\frac{n}{T}$$, thus by making the period $$T$$, the intervals between subsequent frequencies is becoming smaller. So the idea is to use a all the possible frequencies thus forming a continous range of frequencies.
 
-Since we are integrating over $x$, our coefficient is a function of $$n$$ and $$T$$ (we can convince ourselves of that by noticing that if we change either of these variables the coefficient will change as well). So let us define this as a variable $$w_n=\frac{n}{T}$$, for reference and to reiterate that the coefficients are functions that vary with $$n$$ and $$T$$ rather than constants we can rewrite $$(6)$$ as
+Since we are integrating over $$x$$, our coefficient is a function of $$n$$ and $$T$$ (we can convince ourselves of that by noticing that if we change either of these variables the coefficient will change as well). So let us define this as a variable $$w_n=\frac{n}{T}$$, for reference and to reiterate that the coefficients are functions that vary with $$n$$ and $$T$$ rather than constants we can rewrite $$(6)$$ as
 
 $$
 C(w_n) = \frac{1}{T}\int_{-T/2}^{T/2} f(x) e^{2πi(w_n)x}dx
